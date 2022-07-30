@@ -1,0 +1,17 @@
+Desafio:
+
+Empresa de internet e telefone
+26% de clientes de uma empresa cancelaram o serviço.
+Descobrir motivo do cancelamento.
+
+Churn (termo usado quando se cancela um serviço)
+
+#Passo 1: Importar a base de dados;
+#Passo 2: Visualizar a base de dados;
+#Passo 3: Tratamento de dados (resolver as cagadas da base de dados);
+#Passo 4: Análise Inicial dos dados (confirmar se realmente é 26% dos clientes)
+#Passo 5: Descobrir motivos do cancelamento
+
+Informação que não te ajuda, te atrapalha.
+Primeiro problema a se tratar ao abrir uma base de dados: Informações do tipo correto. (Object, int, float...)
+Informações vazias.
